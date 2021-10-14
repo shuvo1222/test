@@ -1,0 +1,8 @@
+#adjusted package.json
+"robot",
+        "simulator"
+    ],
+    "author": "Sergey Reznikov",
+    "author": "Sergey R",
+    "license": "ISC"
+}
